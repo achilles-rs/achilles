@@ -1,0 +1,6 @@
+[package]
+name = "lakko"
+version = "0.0.2"
+authors = ["inkhare <iapricot@foxmail.com>"]
+edition = "2018"
+license = "MIT/Apache-2.0"
