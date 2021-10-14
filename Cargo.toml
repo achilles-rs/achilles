@@ -1,9 +1,0 @@
-[workspace]
-
-members = [
-  "lakko",
-  "vmm",
-
-  # Internal
-  "examples",
-]
